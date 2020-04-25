@@ -1,3 +1,3 @@
 # facerecognition-api
 
-BackEnd
+BackEnd of FaceRecognitionApp
